@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bedcf9e2ef5a7e438888fa600799500, type: 3}
+  m_Name: BanditryItem
+  m_EditorClassIdentifier: 
+  id: 0
+  title: Bandetry
+  image: {fileID: -6063193139565258881, guid: 07fa4a9616a73f34785703310e3f094b, type: 3}

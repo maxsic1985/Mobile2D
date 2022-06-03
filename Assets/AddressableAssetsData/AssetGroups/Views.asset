@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Views
+  m_EditorClassIdentifier: 
+  m_GroupName: Views
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0d0ae72dfa2ab434fae14a1b88ddefd5
+  m_SerializeEntries:
+  - m_GUID: fb2ba7846b9974846b53b85e718a7908
+    m_Address: Prefabs/mainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+  - m_GUID: ba4c22d13e5a28742891fefc272512e4
+    m_Address: Prefabs/RewardWindow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+  - m_GUID: 7fb1a58eccea5cc46b93588cd122f535
+    m_Address: Prefabs/Fight Window
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+  - m_GUID: 0690b7836d5fa154097b698153b38acf
+    m_Address: Prefabs/CurrencyView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dfff75a5fe692cf49b9d47e0f0c53144, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 37955c5a1731450438cc7ba71f2ca776, type: 2}
+    - {fileID: 11400000, guid: 8b6b3cfd92eaf454a9acf8f38cfb5c98, type: 2}
